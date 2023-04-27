@@ -1,0 +1,39 @@
+body {
+    background-image: url(imagens/fundo.jpg);
+    background-size: cover;
+    text-align: left;
+    margin-left: 20px;
+    font-family: Cambria;
+}
+
+
+h1 {
+    font-size: 60px;
+    padding-top: 20px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: bold;
+    opacity: 0.8;
+
+}
+
+ul li a {
+ color: white;  
+ text-decoration: none; 
+ font-size: 20px;
+ padding: 5px;
+}
+
+.botao {
+    text-decoration: none;
+    background-color: #250;
+    padding: 5px 10px 5px 10px;
+    color: white;
+}
+
+.botao:hover{
+    opacity: 0.8;
+    
+}
